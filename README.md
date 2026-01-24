@@ -15,7 +15,7 @@ The dashboard highlights:
 ##  Dashboard Preview
 ![Dashboard Screenshot](screenshots/Retail_Profit_Optimization_Dashboard.png)
 
-## 🛠 Tools Used
+## Tools Used
 - Power BI Desktop
 - Python (ETL / Cleaning)
 - SQL (Analysis Queries)
